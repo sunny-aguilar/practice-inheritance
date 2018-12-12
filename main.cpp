@@ -12,6 +12,7 @@ int main() {
     moe.printAddress();
     moe.setColor("grey");
     cout << charlie.getColor() << endl;
+    cout << moe.getColor() << endl;
 
     return 0;
 }
