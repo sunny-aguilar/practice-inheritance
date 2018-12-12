@@ -12,8 +12,6 @@ int main() {
     moe.printAddress();
     moe.setColor("grey");
     cout << charlie.getColor() << endl;
-
-
-
+    
     return 0;
 }
