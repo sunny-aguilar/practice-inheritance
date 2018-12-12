@@ -1,4 +1,5 @@
 // Dog implementation file
+//
 #include "Dog.hpp"
 #include <iostream>
 using std::cout;
