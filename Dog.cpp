@@ -7,3 +7,9 @@ void Dog::setName(string name) {
 void Dog::setAge(int age) {
     this->age = age;
 }
+string Dog::getName() {
+    return this->name;
+}
+int Dog::getAge() {
+    return this->age;
+}

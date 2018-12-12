@@ -12,7 +12,8 @@ protected:
 public:
     void setName(string name);
     void setAge(int age);
+    string getName();
+    int getAge();
 };
-
 
 #endif
