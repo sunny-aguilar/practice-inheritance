@@ -9,6 +9,7 @@ int main() {
     cout << moe.getName() << endl;
     moe.setAge(5);
     cout << moe.getAge() << endl;
+    moe.printAddress();
 
     return 0;
 }
