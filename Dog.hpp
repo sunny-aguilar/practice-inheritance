@@ -1,5 +1,5 @@
 // Dog specification file
-// static
+// static member functions
 #ifndef DOG_HPP
 #define DOG_HPP
 #include <string>
