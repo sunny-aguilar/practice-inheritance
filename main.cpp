@@ -1,3 +1,4 @@
+// Driver program
 #include "Dog.hpp"
 #include <iostream>
 using std::endl;
