@@ -4,6 +4,8 @@
 using std::cout;
 using std::endl;
 
+string Dog::color;
+
 void Dog::setName(string name) {
     this->name = name;
 }
